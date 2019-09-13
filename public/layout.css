@@ -1,0 +1,37 @@
+body{
+    background-color: #d3dae6;
+}
+#wapper{
+    width: 600px;
+    margin: auto;
+}
+#left{
+    width: 30%;
+    float: left;
+    background-color: bisque
+}
+#right{
+    width: 70%;
+    float: right;
+    background-color: deeppink
+}
+#left,#right{
+    min-height: 300px
+}
+#boxtitle{
+    border: 5px;
+    padding: 5px;
+    text-align: center
+}
+#boxContent{
+    border: 20px ;
+    border-top: none;
+    padding: 5px;
+}
+#sayhi{
+    text-align: right
+}
+#listMess{
+    height: 200px;
+    background-color: aqua;
+}
